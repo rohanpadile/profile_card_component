@@ -12,7 +12,7 @@ body {
   padding: 0px;
   border: 0px;
   font-family: 'Kumbh Sans', sans-serif;
-  background-image: url(profile_card_component/images/bg-pattern-top.jpg);
+  background-image: url(./images/bg-pattern-top.jpg);
   font-size: 18px;
 }
 
@@ -43,7 +43,7 @@ body {
 #div-top {
   width: 375px;
   height: 144px;
-  background-image: url(profile_card_component/images/bg-pattern-card.jpg);
+  background-image: url(./images/bg-pattern-card.jpg);
   border-radius: 25px 25px 0px 0px;
 }
 
