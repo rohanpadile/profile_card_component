@@ -1,0 +1,16 @@
+html {
+    font-size: 100%;
+}
+  
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: 'Kumbh Sans', sans-serif;
+    background-image: url(/images/bg-pattern-top.jpg);
+    font-size: 18px;
+}
